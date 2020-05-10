@@ -9,7 +9,7 @@ His DEV dream is (HERE).
 
 His prefered quote is: 
 
->_"agua mole lalala"_
+>_"lorem ipsum"_
 
 [Here](https://github.com/galalkoro) you can find his gitHub profile.
 
