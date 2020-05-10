@@ -5,8 +5,8 @@ My name is **Abel Roland**, but you can call me **Abel Roland**. Joking, Abel is
 
  For my portfolios you can follow this links:
 
-- [Musician](www.youtube.com/abelroland)
-- [Filmmaker](www.vimeo.com/abelroland)
+- [Musician](https://www.youtube.com/abelroland)
+- [Filmmaker](https://www.vimeo.com/abelroland)
 - [DEV](https://github.com/abelroland)
 
 [back to README](./README.md)
