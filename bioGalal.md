@@ -3,9 +3,9 @@
 ---
 ![profileGalal](https://avatars3.githubusercontent.com/u/56801128?s=200&u=6b0f27d530023291a53816789abab63e6c5104fb&v=4) 
 
-Originally from "country", Galal lives in Belgium since. 
+Originally from (_country_), Galal lives in Belgium since (_YEAR_). 
 
-His DEV dream is (HERE).
+His DEV dream is (_DEV DREAM_).
 
 His prefered quote is: 
 
