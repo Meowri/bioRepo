@@ -14,4 +14,6 @@ His prefered quote is:
 
 [Here](https://github.com/abelRoland) you can find his gitHub profile.
 
-[:point_left:](./biosayed.md) | [:book:](./README.md) | [:point_right:](./bioGalal.md) 
+|  |   |  |
+| -------- | -------- | ---- |
+| [:point_left:](./biosayed.md) | [:book:](./README.md) | [:point_right:](./bioGalal.md) |
