@@ -1,12 +1,17 @@
 # Abel Roland
 
 ---
-My name is **Abel Roland**, but you can call me **Abel Roland**. Joking, Abel is ok for me. I am a classical guitarist and filmmaker born in Brazil. Since 2015 I lives in Belgium and soon I will become a very happy software developer as well.
 
- For my portfolios you can follow this links:
+![profileAbel](https://avatars3.githubusercontent.com/u/60756836?s=200&u=195f4869355fa9f9f8d77424329ebd14c85e0821&v=4) 
 
-- [Musician](https://www.youtube.com/abelroland)
-- [Filmmaker](https://www.vimeo.com/abelroland)
-- [DEV](https://github.com/abelroland)
+Originally from Brazil, Abel lives in Belgium since 2016. 
 
-[back to README](./README.md)
+His DEV dream is to become a full-stack developer.
+
+His prefered quote is: 
+
+>_"Do or do not. There is no try"_
+
+[Here](https://github.com/abelRoland) you can find his gitHub profile.
+
+[:point_left:](./biosayed.md) | [:book:](./README.md) | [:point_right:](./bioGalal.md) 
