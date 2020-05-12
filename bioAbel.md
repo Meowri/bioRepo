@@ -16,4 +16,4 @@ His prefered quote is:
 
 |  |   |  |
 | -------- | -------- | ---- |
-| [:point_left:](./biosayed.md) | [:book:](./README.md) | [:point_right:](./bioGalal.md) |
+| [:point_left:](./bioSayed.md) | [:book:](./README.md) | [:point_right:](./bioGalal.md) |
